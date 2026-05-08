@@ -1,0 +1,94 @@
+
+==============================
+EWS REPORT - Mar-26
+==============================
+
+--- SUMMARY ---
+Total High Risk: 43
+Still High Risk (Feb-26 -> Mar-26): 4
+Improved: 3
+New Risk: 39
+
+--- KEY ISSUES ---
+Low Coverage: 52 (SRIKANTA   DAS, Raj Amberish Singh, Gokul  D R)
+High Discount: 89 (JASBIR SINGH SAINI, Shamshuddin  Shaikh, Rk RAMAKANTH Reddy)
+High Stock: 169 (DEBASISH  CHAKRABORTY, SANDEEP  BANERJEE, JASBIR SINGH SAINI)
+
+--- TOP HIGH RISK EMPLOYEES ---
+- Mohd  Sahil (DELHI-ZM) - Score 8
+- Jayanta  Bandyopadhyay (CALCUTTA-ZM) - Score 7
+- Kanishk  Saraswat (DELHI-ZM) - Score 7
+- Suman  Raj (DELHI-ZM) - Score 7
+- Saravanan  R (CHENNAI-ZM) - Score 7
+
+--- NEW HIGH RISK EMPLOYEES ---
+Ashok Jeetlal Gupta, Raj Amberish Singh, Syoprakash  Sharma, Nikhil urs URS B K, Akash  Chandrabose
+
+--- ZONE-WISE RISK ---
+- DELHI-ZM: 11
+- CALCUTTA-ZM: 7
+- CHENNAI-ZM: 7
+- GHAZIABAD-ZM: 5
+- PUNJAB-ZM: 3
+- PATNA-ZM: 3
+- MUMBAI-ZM: 2
+- AHMEDABAD-ZM: 1
+- BURDWAN-ZM: 1
+- BANGALORE-ZM: 1
+- NAGPUR-ZM: 1
+- TRICHUR-ZM: 1
+
+--- MANAGER-WISE RISK ---
+- KOLKATA-SD: 4
+- DELHI-SD-1: 3
+- CALCUTTA-NSM: 3
+- MUMBAI-NSM: 3
+- DELHI-SD-2: 2
+- JALANDHAR-SD: 2
+- PATNA-SD: 2
+- DELHI-ZM: 2
+- TRICHUR-SD: 2
+- CALCUTTA-ZM: 1
+- BEHRAMPORE-SD(WB): 1
+- BANGALORE-SD-2: 1
+- AHMEDABAD-ZM: 1
+- DARBHANGA-SD: 1
+- CHENNAI-SD: 1
+- CHENNAI-ZM: 1
+- CUTTACK-SD: 1
+- CHANDIGARH-SD: 1
+- HBT-TRICHUR-SD: 1
+- GHAZIABAD-SD: 1
+- GHAZIABAD-ZM: 1
+- LUCKNOW-SD: 1
+- JAIPUR-SD: 1
+- HBT-DELHI-SD-3: 1
+- MADURAI-SD: 1
+- MUMBAI-SD-1: 1
+- MALAPPURAM-SD: 1
+- NORTH WEST - NSM: 1
+- RAIPUR-SD: 1
+
+--- RISK DISTRIBUTION ---
+- Low Risk: 331
+- Medium Risk: 321
+- High Risk: 43
+
+--- TREND ---
+Feb-26: 0 -> Mar-26: 43
+
+--- ACTIONS ---
+
+- Reduce stock levels
+- Improve coverage visits
+- Control discount practices
+- Monitor high-risk employees closely
+
+
+--- AI INSIGHTS ---
+Here are 4 short insights:
+
+1. We still have a significant number of high-risk cases, totaling 43.
+2. Unfortunately, 4 cases have not shown any improvement and remain high risk.
+3. On a positive note, 3 cases have improved, which is a good sign.
+4. However, we have a large influx of new high-risk cases, with 39 being added, which is a concern that needs attention.
