@@ -76,9 +76,10 @@ st.markdown("""
 # ==============================
 # LOAD DATA
 # ==============================
-df_full = pd.read_csv(
-    r"C:\Python_Incentives_Calc_Project\EWS Project\output\final_ews_data.csv"
-)
+#df_full = pd.read_csv(
+   # r"C:\Python_Incentives_Calc_Project\EWS Project\output\final_ews_data.csv"
+#)
+df_full = pd.read_csv("final_ews_data.csv")
 
 # ==============================
 # HEADER
